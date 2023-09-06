@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import {FiTrash} from 'react-icons/fi'
-import {BsFillPencilFill, BsPencil} from 'react-icons/bs'
+import { FiTrash } from 'react-icons/fi'
+import { BsPencil } from 'react-icons/bs'
 import './style.css'
 
 const TaskList = () => {
