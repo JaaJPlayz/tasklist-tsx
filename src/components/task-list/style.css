@@ -4,10 +4,29 @@
   border: 1px solid #ccc;
   border-radius: 5px;
   padding: 10px;
-  min-height: 200px;
+  min-height: 175px;
   min-width: 300px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
+}
+
+form {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+input {
+  width: 50%;
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+li {
+  list-style-type: none;
 }
