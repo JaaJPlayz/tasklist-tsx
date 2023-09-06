@@ -1,0 +1,13 @@
+.tasklist-div {
+  margin: 0 auto;
+  width: 50%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  min-height: 200px;
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
